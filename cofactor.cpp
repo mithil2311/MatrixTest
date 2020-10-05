@@ -3,7 +3,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 /*Program to find the determinant of any nxn matrix*/
-
+///
+*/////\
+	
 int** Reduction(int **mat,int n,int i, int j);
 double Determinant(int **mat,int n);
 int main(){
